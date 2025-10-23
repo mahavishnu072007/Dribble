@@ -205,7 +205,8 @@ Publish the website in the LocalHost.
 ```
 ## OUTPUT:
 ![12](https://github.com/user-attachments/assets/df399cf6-d485-4dea-a337-3aeef95cf26a)
-![11](https://github.com/user-attachments/assets/d764e206-9391-47b5-92d1-5cf3d07170ff)
+<img width="1086" height="486" alt="image" src="https://github.com/user-attachments/assets/1fd4a046-726f-4c4c-aefd-3cbfea36a655" />
+
 
 
 ## RESULT:
