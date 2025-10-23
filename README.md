@@ -196,7 +196,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 All rights reserved. Designed by Arjun R S</p>
+    <p>© 2025 All rights reserved. Designed by MAHA VISHNU S(25018250) S</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
